@@ -75,7 +75,7 @@ h1.title{
 }
 
 .navbar .navbar_items ul li a{
-	font-family: 'Allura', cursive;
+	font-family: 'Allura', helvetica;
 	text-decoration: none;
 	display: block;
 	color:  black;
@@ -214,7 +214,7 @@ h1.title{
 	color: #fff;
 }
 
-
+/* mobile screens */
 @media (max-width: 720px){
 	.navbar{
 		height: auto;
