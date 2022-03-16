@@ -138,7 +138,7 @@ h1.title{
 }
 
 .diff_service_item img{
-	width: 100%;
+	width: 50%;
 	margin-bottom: 25px;
 }
 
@@ -146,6 +146,8 @@ h1.title{
 	color: #5F3C33;
 	margin-bottom: 15px;
 }
+
+
 
 /* Contact Us */
 .form_input{
